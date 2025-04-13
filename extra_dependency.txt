@@ -1,0 +1,11 @@
+npm install @vitejs/plugin-react
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+
+
+
+
+(-by sumitha to fix tailwind in sandhiya's lap)
